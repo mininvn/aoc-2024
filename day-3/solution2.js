@@ -26,7 +26,6 @@ function shouldDo(index) {
     }
     minDont = ind
   }
-  console.log(index, minDo, minDont)
   return minDo >= minDont
 }
 
